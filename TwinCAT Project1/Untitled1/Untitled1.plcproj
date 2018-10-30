@@ -26,13 +26,15 @@
             <SubType>Code</SubType>
         </Compile><Compile Include="Version\Global_Version.TcGVL">
             <SubType>Code</SubType>
+        </Compile><Compile Include="Version\Global_Version.TcGVL">
+            <SubType>Code</SubType>
         </Compile>
     <Compile Include="POUs\MAIN.TcPOU">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="DUTs"/><Folder Include="Version"/><Folder Include="Version"/>
+    <Folder Include="DUTs"/><Folder Include="Version"/><Folder Include="Version"/><Folder Include="Version"/>
     <Folder Include="GVLs"/>
     <Folder Include="VISUs"/>
     <Folder Include="POUs"/>
