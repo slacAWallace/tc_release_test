@@ -15,7 +15,7 @@
     <LibraryReferences>{1d2854c6-c1bf-483c-9854-9e694fdf8483}</LibraryReferences>
     <CombineIds>false</CombineIds>
     <Released>false</Released>
-    <ProjectVersion>1.1.0</ProjectVersion>
+    <ProjectVersion>1.2.1</ProjectVersion>
     <Company>SLAC</Company>
     <Title>Wub Dub</Title>
   </PropertyGroup>
@@ -24,13 +24,15 @@
       <SubType>Code</SubType>
     </Compile><Compile Include="Version\Global_Version.TcGVL">
             <SubType>Code</SubType>
+        </Compile><Compile Include="Version\Global_Version.TcGVL">
+            <SubType>Code</SubType>
         </Compile>
     <Compile Include="POUs\MAIN.TcPOU">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="DUTs"/><Folder Include="Version"/>
+    <Folder Include="DUTs"/><Folder Include="Version"/><Folder Include="Version"/>
     <Folder Include="GVLs"/>
     <Folder Include="VISUs"/>
     <Folder Include="POUs"/>
