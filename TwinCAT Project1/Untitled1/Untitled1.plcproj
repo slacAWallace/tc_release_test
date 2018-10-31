@@ -15,7 +15,7 @@
     <LibraryReferences>{1d2854c6-c1bf-483c-9854-9e694fdf8483}</LibraryReferences>
     <CombineIds>false</CombineIds>
     <Released>false</Released>
-    <ProjectVersion>1.2.1</ProjectVersion>
+    <ProjectVersion>2.1.1</ProjectVersion>
     <Company>SLAC</Company>
     <Title>Wub Dub</Title>
   </PropertyGroup>
